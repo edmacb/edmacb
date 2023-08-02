@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">still a work in progess</h1>
-<h3 align="center">A passionate learner from the Philippines</h3>
+<h3 align="center">A passionate individual from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="./profile.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmacb&label=Profile%20views&color=0e75b6&style=flat" alt="edmacb" /> </p>
