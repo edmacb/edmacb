@@ -1,7 +1,7 @@
 ![Header](./header.png)
 <h1 align="center">still a work in progess</h1>
 <h3 align="center">A passionate individual from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="./profile.jpeg">
+<!-- <img align="right" alt="Coding" width="400" src="./profile.jpeg"> -->
 
 
 - 📚 I’m currently studying with [Code MNL](https://www.codemnl.com/)
